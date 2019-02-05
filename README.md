@@ -1,3 +1,12 @@
+Juan Lluva Llord,
+Andres Montero Ranc
+
+## Listado de mejoras
+* Personalización de estilos: CSS, spinner...
+* Boton de Reset que reinicia el juego, tanto en la "pantalla" principal como en la "pantalla" final de resultado.
+* Cuenta atrás que limite el tiempo de juego (a 1 min por defecto).
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
